@@ -10,16 +10,19 @@ Procurando um sentido nesse mundo louco
 
 ## Para rodar o projeto
 
-### exacute:
+### execute:
 
-'git clone https://github.com/gusthavoabreu/pw-atividade1.git
+git clone https://github.com/gusthavoabreu/pw-atividade1
 
+### acesse a pasta e execute
 
-
-' mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run
+mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run
 
 
 ### para acessar a aplicação 
 
-'  http://localhost:8080/pw-atividade1
+http://localhost:8080/pw-atividade1
 
+
+## Créditos
+https://www.templatemonster.com/bootstrap-website-templates/#gref
