@@ -7,3 +7,19 @@ Procurando um sentido nesse mundo louco
 ## Sistemas de Informação - UFG
 
 ## Programação Web 2017-1
+
+## Para rodar o projeto
+
+### exacute:
+
+' git clone https://github.com/gusthavoabreu/pw-atividade1.git
+
+
+
+' mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run
+
+
+### para acessar a aplicação 
+
+'  http://localhost:8080/pw-atividade1
+
