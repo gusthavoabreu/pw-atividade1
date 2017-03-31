@@ -12,7 +12,7 @@ Procurando um sentido nesse mundo louco
 
 ### exacute:
 
-' git clone https://github.com/gusthavoabreu/pw-atividade1.git
+'git clone https://github.com/gusthavoabreu/pw-atividade1.git
 
 
 
